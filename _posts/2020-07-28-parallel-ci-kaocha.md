@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parallel tests with Kaocha and circleci
-subtitle: Using Kaocha hand circleci to improve your tests speed
+subtitle: Using Kaocha and circleci to improve your tests speed
 tags: [clojure, clojurescript, code, kaocha, circleci]
 comments: true
 ---
