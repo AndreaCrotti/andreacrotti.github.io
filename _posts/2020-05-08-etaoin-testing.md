@@ -20,3 +20,10 @@ You could have all these steps running in a single big test fixture, but they ta
 
 So we just need to be a bit smarter, doing the minimum amount of work necessary.
 
+## Requirements
+
+- it needs to be easy to run all the tests from the REPL
+- the same tests should be runnable from the cli as well
+- the web server to run the tests should not affect the one used in dev mode
+- figwheel-main auto reload should be used while testing
+- you should be able to run all the tests in headless mode (to run them on CI)
