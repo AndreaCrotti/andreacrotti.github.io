@@ -1,7 +1,7 @@
 ---
 author: 'anc'
 title: 'Live repling to infinity and beyond'
-description: 'Everything you wanted (and not wanted) to know about Live REPLs'
+description: 'Everything you wanted (and not wanted) to know about Clojure REPLs'
 ---
 
 # Introduction
@@ -105,14 +105,6 @@ In many languages, a  REPL was an after thought, and sometimes you can't do ever
 While in Clojure the REPL was always a first-class citizen, you still have to be aware of a few things that cause issues with hot reloading, and write your application accordingly.
 
 Thankfully these tips also help with local development, and make your codebase nicer to work with.
-
-### JVM interop
-
-### Compile time
-
-Any operation
-
-### Resources
 
 ## Security
 
