@@ -1,11 +1,7 @@
 ---
-author: 'anc'
 title: 'Carve that Clojure codebase'
-description: 'How to use carve to delete all the dead code from your projects'
+subtitle: 'How to use carve to delete all the dead code from your projects'
 category: 'clojure'
-layout: '../../layouts/BlogPost.astro'
-publishedDate: '2021-01-18'
-heroImage: 'carve.jpg'
 ---
 
 As anyone who has maintained a legacy software project will know, every
