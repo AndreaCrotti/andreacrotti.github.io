@@ -2,6 +2,8 @@
 author: 'anc'
 title: 'Live repling to infinity and beyond'
 description: 'Everything you wanted (and not wanted) to know about Clojure REPLs'
+tags: [clojure, clojurescript, repl]
+comments: true
 ---
 
 # Introduction
